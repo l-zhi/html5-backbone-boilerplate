@@ -23,12 +23,12 @@ A workflow for building html5 applications width backbone and webpack
 
 # Installation
 
-```
+``` bash
 git clone https://github.com/l-zhi/html5-backbone-boilerplate.git
 
 cd html5-backbone-boilerplate
 
-npm install #updating dependencies
+npm install # updating dependencies
 
 ```
 
@@ -37,8 +37,8 @@ npm install #updating dependencies
 npm start
 ```
 #Build
-```
-npm run build # build a demo
+``` bash
+npm run build  # build a demo
 ```
 http://localhost:3000/build/index.html
 
