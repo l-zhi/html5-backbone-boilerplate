@@ -40,7 +40,7 @@ npm start
 ``` bash
 npm run build  # build a demo
 ```
-http://localhost:3000/build/index.html
+[http://localhost:3000/build/index.html](http://localhost:3000/build/index.html)
 
 #License
 MIT
