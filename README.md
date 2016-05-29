@@ -9,13 +9,15 @@ A workflow for building html5 applications width backbone and webpack
 
 * [Underscore](http://underscorejs.org/) a useful functional programming helpers
 
-* [Webpack](https://webpack.github.io) 
+* [Webpack](https://webpack.github.io) a module bundler
 
-* [webpack-dev-server](https://webpack.github.io/docs/webpack-dev-server.html)
+* [webpack-dev-server](https://webpack.github.io/docs/webpack-dev-server.html) nodejs Express server
 
-* [Sass](http://sass-lang.com/) 
+* [Sass](http://sass-lang.com/) scss files (xxx.scss)
 
-* [Autoprefixer](https://github.com/postcss/autoprefixer) 
+* [precss](https://github.com/jonathantneal/precss) use Sass-like markup in your CSS files(xxx.sss)
+
+* [Autoprefixer](https://github.com/postcss/autoprefixer) add vendor prefixes to css rules
 
 * [Postcss-sprites](https://github.com/2createStudio/postcss-sprites) generates spritesheets from stylesheets
 
